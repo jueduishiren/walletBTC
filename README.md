@@ -8,30 +8,25 @@ collect some BTC wallet.dat file losting password
 ### usefull links and info for cracking wallet.dat
 [hashcat.net](https://hashcat.net/hashcat/) - software for bruteforce using CPU, GPU, DSP, FPGA.
 
-[How to Brute Force a Bitcoin Wallet with Hashcat](https://www.youtube.com/watch?v=d1Y6TPGzVn0)
-
-[Brute-force your Bitcoin wallet - part 2 - btcrecover on Multibit classic - Password found](https://www.youtube.com/watch?v=elIF7n1vles)
-
 Dictionary collection for wordlist attack - (https://weakpass.com/wordlist)
 
 Crack Bitcoin Password by Thegrideon Software  https://thegrideon.com/bitcoin-password-recovery.html
 
 
-[5 BTC wallet.dat](5BTC_wallet.dat.md)
+10000BTC  1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK
 
-10000 BTC  1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK
+340BTC    1JqPFnGPhHhy54zJKmC1MPiczzgFjCmzE9
 
-340 BTC    1JqPFnGPhHhy54zJKmC1MPiczzgFjCmzE9
+198BTC    1E87cVPLZ938w7vYEA1e9RWSc8mESPA3J5
 
-198 BTC    1E87cVPLZ938w7vYEA1e9RWSc8mESPA3J5
+159BTC    12PpzLTHNWCLsHPgHMNd9ebj7bwbTxs33u
 
-159 BTC    12PpzLTHNWCLsHPgHMNd9ebj7bwbTxs33u
+150BTC    12c6DSiU4Rq3P4ZxziKxzrL5LmMBrzjrJX/1FvzCLoTPGANNjWoUo6jUGuAG3wg1w4YjR/1HLoD9E4SDFFPDiYfNYnkBLQ85Y51J3Zb1
 
-150 BTC    12c6DSiU4Rq3P4ZxziKxzrL5LmMBrzjrJX/1FvzCLoTPGANNjWoUo6jUGuAG3wg1w4YjR/1HLoD9E4SDFFPDiYfNYnkBLQ85Y51J3Zb1
+86BTC     161vuWHBD8LcNdr28QjKu2SbADyknBEVGv/13KXcGDFXxcFvmUwmqSVj7o7df8oNEDFSf
 
-86 BTC     161vuWHBD8LcNdr28QjKu2SbADyknBEVGv/13KXcGDFXxcFvmUwmqSVj7o7df8oNEDFSf
+47BTC     18HYU4HJe6h4ETeG1N7GUANFoKoqME2JYT
 
-47 BTC     18HYU4HJe6h4ETeG1N7GUANFoKoqME2JYT
+8.5BTC    1KDUcZh5Z6H1of4Pwoy5ojJtkQxcQBHhnH
 
-8.5 BTC    1KDUcZh5Z6H1of4Pwoy5ojJtkQxcQBHhnH
-
+5BTC      1JEsngBPtTs56qdx7UT3VzkusdmEBPAXCy
