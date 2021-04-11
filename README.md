@@ -1,7 +1,7 @@
-## Bitcoin wallet files walled.dat with BTC for exchange or sale
-## contact 1124177653@qq.com
+## Collecting some BTC wallet.dat file losting password
+## Contact 1124177653@qq.com
+## Exchange or sale 交换优先，有购买意向的可以单独谈价
 
-collect some BTC wallet.dat file losting password
 
 ### <span style="color:red"> Passwords for all of them are forgoten or lost. </span> With some luck and skills you may recover lost password and would be able to access the coins.
 
@@ -12,6 +12,8 @@ Dictionary collection for wordlist attack - (https://weakpass.com/wordlist)
 
 Crack Bitcoin Password by Thegrideon Software  https://thegrideon.com/bitcoin-password-recovery.html
 
+
+public address
 
 10000BTC  1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK
 
@@ -30,3 +32,4 @@ Crack Bitcoin Password by Thegrideon Software  https://thegrideon.com/bitcoin-pa
 8.5BTC    1KDUcZh5Z6H1of4Pwoy5ojJtkQxcQBHhnH
 
 5BTC      1JEsngBPtTs56qdx7UT3VzkusdmEBPAXCy
+
