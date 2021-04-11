@@ -1,4 +1,4 @@
-## Collecting some BTC wallet.dat file losting password
+## Collecting some BTC wallet.dat files lost password
 ## Contact 1124177653@qq.com
 ## Exchange or sale 交换优先，有购买意向的可以单独谈价
 
